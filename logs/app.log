@@ -1,0 +1,49 @@
+2024-05-21 19:07:24 [restartedMain] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 17 with PID 18872 (C:\jee-2024-03\projects\demo\demo\target\classes started by suman in C:\jee-2024-03\projects\demo\demo)
+2024-05-21 19:07:24 [restartedMain] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-21 19:07:24 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8888 (http)
+2024-05-21 19:07:24 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-21 19:07:24 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-21 19:07:24 [restartedMain] INFO  o.a.c.c.C.[Tomcat-2].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-21 19:07:24 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 372 ms
+2024-05-21 19:07:24 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-21 19:07:24 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2024-05-21 19:07:24 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8888 (http) with context path ''
+2024-05-21 19:07:24 [restartedMain] INFO  com.example.demo.DemoApplication - Started DemoApplication in 0.848 seconds (process running for 591.548)
+2024-05-21 19:07:24 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-05-21 19:09:32 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-21 19:09:32 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.example.demo.DemoApplication for test class com.example.demo.DemoApplicationTests
+2024-05-21 19:09:33 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2024-05-21 19:09:33 [main] INFO  c.example.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 17 with PID 19708 (started by suman in C:\jee-2024-03\projects\demo\demo)
+2024-05-21 19:09:33 [main] DEBUG c.example.demo.DemoApplicationTests - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-21 19:09:33 [main] INFO  c.example.demo.DemoApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-05-21 19:09:35 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 13 endpoint(s) beneath base path '/actuator'
+2024-05-21 19:09:35 [main] INFO  c.example.demo.DemoApplicationTests - Started DemoApplicationTests in 2.793 seconds (process running for 4.541)
+2024-05-21 19:09:57 [main] INFO  com.example.demo.DemoApplication - Starting the Logging Demo Application
+2024-05-21 19:09:58 [restartedMain] INFO  com.example.demo.DemoApplication - Starting the Logging Demo Application
+2024-05-21 19:09:58 [restartedMain] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 17 with PID 10144 (C:\jee-2024-03\projects\demo\demo\target\classes started by suman in C:\jee-2024-03\projects\demo\demo)
+2024-05-21 19:09:58 [restartedMain] DEBUG com.example.demo.DemoApplication - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-21 19:09:58 [restartedMain] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-21 19:09:58 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-21 19:09:58 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-21 19:10:01 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8888 (http)
+2024-05-21 19:10:01 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2024-05-21 19:10:01 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-21 19:10:01 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-21 19:10:01 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-21 19:10:01 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2465 ms
+2024-05-21 19:10:02 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-21 19:10:02 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2024-05-21 19:10:02 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2024-05-21 19:10:02 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8888 (http) with context path ''
+2024-05-21 19:10:02 [restartedMain] INFO  com.example.demo.DemoApplication - Started DemoApplication in 4.389 seconds (process running for 5.36)
+2024-05-21 19:10:08 [http-nio-8888-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-21 19:10:08 [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-21 19:10:08 [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2024-05-21 19:10:08 [http-nio-8888-exec-1] INFO  com.example.demo.TestController - INFO log message
+2024-05-21 19:10:08 [http-nio-8888-exec-1] DEBUG com.example.demo.TestController - DEBUG log message
+2024-05-21 19:10:08 [http-nio-8888-exec-1] WARN  com.example.demo.TestController - WARN log message
+2024-05-21 19:10:08 [http-nio-8888-exec-1] ERROR com.example.demo.TestController - ERROR log message
+2024-05-21 19:10:35 [http-nio-8888-exec-4] INFO  com.example.demo.TestController - INFO log message
+2024-05-21 19:10:35 [http-nio-8888-exec-4] DEBUG com.example.demo.TestController - DEBUG log message
+2024-05-21 19:10:35 [http-nio-8888-exec-4] WARN  com.example.demo.TestController - WARN log message
+2024-05-21 19:10:35 [http-nio-8888-exec-4] ERROR com.example.demo.TestController - ERROR log message
